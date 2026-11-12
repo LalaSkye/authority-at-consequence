@@ -1,0 +1,9 @@
+test_s1_unfenced_forbidden_effect (test_separation.SeparateStoreCases.test_s1_unfenced_forbidden_effect) ... ok
+test_s2_fenced_sink_observed (test_separation.SeparateStoreCases.test_s2_fenced_sink_observed) ... ok
+test_s3_fenced_sink_unaware (test_separation.SeparateStoreCases.test_s3_fenced_sink_unaware) ... ok
+test_s4_effect_precedes_revocation (test_separation.SeparateStoreCases.test_s4_effect_precedes_revocation) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.004s
+
+OK
